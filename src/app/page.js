@@ -150,7 +150,7 @@ export default function CyberPortfolio() {
           </p>
 
           <div className="mt-8 space-y-3 text-lg">
-            <p>Email: yourmail@example.com</p>
+            <p>Email: badejom2@gmail.com</p>
             <p>Location: Lagos, Nigeria</p>
           </div>
         </div>
