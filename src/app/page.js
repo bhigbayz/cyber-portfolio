@@ -20,7 +20,7 @@ export default function CyberPortfolio() {
 
             <div className="flex gap-4 mt-8 flex-wrap">
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/bhigbayz"
                 target="_blank"
                 className="bg-white text-black px-5 py-3 rounded-2xl font-semibold hover:opacity-90"
               >
