@@ -38,7 +38,7 @@ export default function CyberPortfolio() {
               <a
                 href="https://linkedin.com/in/michael-badejo-46b8b6292"
                 target="_blank"
-                className="border border-gray-600 px-5 py-3 rounded-2xl hover:bg-gray-900"
+                className="bg-white text-black px-5 py-3 rounded-2xl font-semibold hover:opacity-90"
               >
                 LinkedIn
               </a>
