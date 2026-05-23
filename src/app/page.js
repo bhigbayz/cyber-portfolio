@@ -6,7 +6,7 @@ export default function CyberPortfolio() {
         <div className="grid md:grid-cols-2 gap-10 items-center">
           <div>
             <h1 className="text-5xl md:text-6xl font-bold leading-tight">
-              Michael Badejo
+              Badejo Michael
             </h1>
             <p className="mt-6 text-xl text-gray-300">
               ISC2 CC Certified | Aspiring SOC Analyst | Security+ Student
@@ -28,7 +28,15 @@ export default function CyberPortfolio() {
               </a>
 
               <a
-                href="https://linkedin.com/in/yourprofile"
+                href="https://tryhackme.com/p/badejom2"
+                target="_blank"
+                className="bg-white text-black px-5 py-3 rounded-2xl font-semibold hover:opacity-90"
+              >
+                TryHackMe
+              </a>
+
+              <a
+                href="https://linkedin.com/in/michael-badejo-46b8b6292"
                 target="_blank"
                 className="border border-gray-600 px-5 py-3 rounded-2xl hover:bg-gray-900"
               >
